@@ -1,0 +1,8 @@
+#canvas, .output {
+	display: none;
+}
+
+#video {
+	border-radius: 0.25rem;
+}
+
