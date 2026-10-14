@@ -170,6 +170,8 @@ document.getElementById("authbutton").addEventListener("click", function(){
   //window.addEventListener("load", startup, false);
   startup();
   document.getElementById("authbutton").style.display = "none";
+  document.getElementById("video").style.display = "unset";
+  document.getElementById("startbutton").style.display = "unset";
 });
 
 
