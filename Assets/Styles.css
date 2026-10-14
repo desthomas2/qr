@@ -138,3 +138,16 @@ hr {
 .scannerurl {
 	color: var(--accent-color);
 }
+
+.camera > #video, .camera > #startbutton {
+	display: none;
+}
+
+.camera > button {
+	background: red;
+	color: white;
+	padding: 1rem;
+	border: none;
+	border-radius: 0.5rem;
+}
+
